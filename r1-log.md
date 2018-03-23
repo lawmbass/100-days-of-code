@@ -1,10 +1,11 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Lawrence Bass
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [March 22, Thursday, 2018].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Today's Progress: Fixed CSS, worked on making font size of text adjust based on the device screen size.
+[SleepySquid](https://www.sleepysquid.com)
 
-### R1D2
+Thoughts: So far so good, just made minor improvements though I feel like I'm not using the styled-components library in the best way so my codebase might need some refactoring. I look forward to day 2 :smiley:
